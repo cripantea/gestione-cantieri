@@ -2,7 +2,7 @@
 @setup
 $server = 'srv961648.hstgr.cloud';
 
-$baseDir = '/var/www/html/gestione-cantieri';
+$baseDir = '/var/www/html/gestionale-cantieri';
 $user = 'cristi';
 
 $php = 'php';
